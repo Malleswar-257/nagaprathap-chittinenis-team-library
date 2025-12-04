@@ -1,0 +1,1 @@
+{"name": "nagaprathap-chittinenis-team-library", "version": "1.0.0", "dependencies": {"express": "^4.17.1", "prisma": "^4.5.0", "@prisma/client": "^4.5.0"}}
